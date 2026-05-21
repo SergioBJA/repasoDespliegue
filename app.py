@@ -1,4 +1,4 @@
-"""Módulo de operaciones matemáticas básicas para el examen."""
+"""Módulo de operaciones matemáticas para el examen."""
 
 
 def suma(a: int, b: int) -> int:
