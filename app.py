@@ -1,9 +1,6 @@
-""" Docstring del módulo """
+"""Módulo de operaciones matemáticas básicas para el examen."""
 
 
 def suma(a: int, b: int) -> int:
- """ docstring function
- # debe dar errores en linter
- """
-    x = "esta variable no se usa para nada"
-    return a+ b
+    """Calcula la suma de dos números enteros."""
+    return a + b
