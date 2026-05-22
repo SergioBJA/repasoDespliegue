@@ -29,4 +29,4 @@ jobs:
         push: true
         # CAMBIA 'TU_USUARIO_DOCKERHUB' por tu usuario real de Docker Hub:
         tags: |
-          TU_USUARIO_DOCKERHUB/repaso-despliegue:latest
+          sergiobja/repaso-despliegue:latest
